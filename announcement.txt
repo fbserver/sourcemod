@@ -1,0 +1,19 @@
+﻿Tip. 부활 딜레이 [보병 4초 고기방패 2초 기타보직 6초]
+Tip. rrrfffrrr 님 injury플러그인 적용중입니다.
+Tip. injury플러그인 영향으로 다리 피격시 뛸수 없습니다.
+Tip. injury플러그인 영향으로 팔 피격시 반동이 증가 합니다.
+Tip. 16명 언더로 남을때까지 랜덤 리스폰 입니다.
+Tip. kor insurgency cafe : http://cafe.naver.com/greenj2ati
+Tip. fb_Server Information : http://cafe.naver.com/greenj2ati/135
+Tip. 피격 후 상태 이상 회복은 베이스에서 재보급 하면 됩니다.
+Tip. 다른방에서 게임 하시고 오시면 플러그인 충돌 가능성이 있습니다. 게임을 완전 종료 후 재접속 해주세요.
+Tip. 콘솔창에 cl_showfps 1 입력 하시면 프레임을 볼 수 있습니다.
+Tip. 모든 보직은 2번 부활 가능합니다.
+Tip. 오픈 채팅방 https://open.kakao.com/o/gPqdJXF
+Tip. 팀킬 후 사과는 기본 메너 입니다.
+Tip. 비매너 유저는 카페나 카톡으로 신고해 주세요. [영구밴]
+Tip. workshop 파일을 먼저 받으시면 접속시간이 단축됩니다. https://goo.gl/RkUsxY
+Tip. workshop 파일을 먼저 받으시면 접속시간이 단축됩니다. https://goo.gl/LhpPFp
+Tip. FB_Server_1 서버 운영시간 매일 오전8시 ~ 익일 오전 8시 까지
+Tip. FB_Server_2 서버 운영시간 금요일 오후6시 ~ 월요일 오전5시 까지
+Tip. 모든 서버는 다운된 후 10분 이후 재시작 됩니다.
